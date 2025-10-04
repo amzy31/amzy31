@@ -6,7 +6,7 @@ Developer specializing in JavaScript for frontend, fullstack, animations, and GN
 
 - Email: azymiamin@gmail.com
 
-Website created by AMZY31:
+FrontEnd by AMZY31:
 - https://web.archive.org/web/20250000000000*/amesgoal.com
 - https://web.archive.org/web/20250000000000*/solib.ir
 - https://web.archive.org/web/20250000000000*/behzadebrahimi.ir
