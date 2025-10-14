@@ -11,6 +11,7 @@ FrontEnd by AMZY31:
 - https://web.archive.org/web/20250000000000*/solib.ir
 - https://web.archive.org/web/20250000000000*/behzadebrahimi.ir
 - https://web.archive.org/web/20250000000000*/badizkadeh.ir
+- https://web.archive.org/web/20250000000000*/unixism.ir
 
 
 currently at www.charlex.ir 
